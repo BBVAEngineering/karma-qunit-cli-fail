@@ -1,0 +1,46 @@
+{
+  "name": "karma-qunit-cli-fail",
+  "version": "0.0.1",
+  "description": "Karma qunit plugin to stop runner if test fails",
+  "keywords": [
+    "karma",
+    "preprocessor",
+    "cli",
+    "flags",
+    "karma-plugin"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "BBVAEngineering",
+  "maintainers": [
+    {
+      "name": "josex2r",
+      "email": "codex2r@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:BBVAEngineering/karma-qunit-cli-fail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BBVAEngineering/karma-qunit-cli-fail/issues"
+  },
+  "peerDependencies": {
+    "karma": ">=0.10"
+  },
+  "homepage": "https://github.com/BBVAEngineering/karma-qunit-cli-fail",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "minimist": "^1.2.0",
+    "lodash.template": "^3.0.0"
+},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
