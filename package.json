@@ -15,7 +15,8 @@
     "lib/karma-qunit-cli-fail.js"
   ],
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "test-ci": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage"
   },
   "author": "BBVAEngineering",
   "maintainers": [
@@ -38,8 +39,10 @@
   "homepage": "https://github.com/BBVAEngineering/karma-qunit-cli-fail",
   "dependencies": {
     "minimist": "^1.2.0"
-},
+  },
   "devDependencies": {
+    "coveralls": "^2.11.4",
+    "istanbul": "^0.4.1",
     "mocha": "*"
   }
 }

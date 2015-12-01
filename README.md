@@ -1,9 +1,11 @@
-# karma-qunit-cli-fail [![Build Status](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail.svg?branch=master)](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail)[![GitHub version](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail.svg)](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail)
+# karma-qunit-cli-fail [![Build Status](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail.svg?branch=master)](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail) [![GitHub version](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail.svg)](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail) [![Coverage Status](https://coveralls.io/repos/BBVAEngineering/karma-qunit-cli-fail/badge.svg?branch=master&service=github)](https://coveralls.io/github/BBVAEngineering/karma-qunit-cli-fail?branch=master)
 
 ## Information
 
+[![NPM](https://nodei.co/npm/karma-qunit-cli-fail.png?downloads=true&downloadRank=true)](https://nodei.co/npm/karma-qunit-cli-fail/)
+
 <table>
-<tr> 
+<tr>
 <td>Package</td><td>karma-qunit-cli-fail</td>
 </tr>
 <tr>
