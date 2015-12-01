@@ -9,9 +9,10 @@
     "flags",
     "karma-plugin"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "files": [
-    "index.js"
+    "lib/index.js",
+    "lib/karma-qunit-cli-fail.js"
   ],
   "scripts": {
     "test": "mocha"
@@ -36,9 +37,7 @@
   },
   "homepage": "https://github.com/BBVAEngineering/karma-qunit-cli-fail",
   "dependencies": {
-    "merge": "^1.2.0",
-    "minimist": "^1.2.0",
-    "lodash.template": "^3.0.0"
+    "minimist": "^1.2.0"
 },
   "devDependencies": {
     "mocha": "*"
