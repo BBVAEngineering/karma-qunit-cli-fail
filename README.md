@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # karma-qunit-cli-fail [![Build Status](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail.svg?branch=master)](https://travis-ci.org/BBVAEngineering/karma-qunit-cli-fail) [![GitHub version](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail.svg)](https://badge.fury.io/gh/BBVAEngineering%2Fkarma-qunit-cli-fail) [![Coverage Status](https://coveralls.io/repos/BBVAEngineering/karma-qunit-cli-fail/badge.svg?branch=master&service=github)](https://coveralls.io/github/BBVAEngineering/karma-qunit-cli-fail?branch=master)
 
 ## Information
